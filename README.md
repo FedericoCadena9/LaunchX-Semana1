@@ -2,12 +2,12 @@
 
 ## **Índice**
 
-1. [Caso: Abogabot 🧑‍💼]()
-2. [Toma de Requerimientos 🔎]()
-3. [Buyer Persona 🧍]()
-4. [Público Objetivo 🎯]()
-5. [Wireframe UX 🧩]()
-6. [UI Design 🎨]()
+1. [Caso: Abogabot 🧑‍💼](https://github.com/FedericoCadena9/LaunchX-Semana1#caso-abogabot-)
+2. [Toma de Requerimientos 🔎](https://github.com/FedericoCadena9/LaunchX-Semana1#toma-de-requerimientos-)
+3. [Buyer Persona 🧍](https://github.com/FedericoCadena9/LaunchX-Semana1#toma-de-requerimientos-)
+4. [Público Objetivo 🎯](https://github.com/FedericoCadena9/LaunchX-Semana1#p%C3%BAblico-objetivo-)
+5. [Wireframe UX 🧩](https://github.com/FedericoCadena9/LaunchX-Semana1#wireframe-ux-)
+6. [UI Design 🎨](https://github.com/FedericoCadena9/LaunchX-Semana1#ui-design-)
 
 ## **Caso: Abogabot 🧑‍💼**
 
@@ -63,7 +63,7 @@ En base a los requerimientos levantados anteriormente, y de acuerdo a la persona
 
 De acuerdo a la conversación con el cliente, un requerimiento no funcional era la implementación de colores azul marino y blanco, logrando las siguientes vistas.
 
-![UI Cover](./UI/Black.png)
+![UI Cover](./UI/Cover.png)
 
 > Puedes consultar toda la estructura en [UI Design 🎨](https://www.figma.com/file/rO1X9AhdgtQsavmTSLwFwD/%F0%9F%9A%80-Launch-X-%7C-Abogabot?node-id=11%3A3).
 
