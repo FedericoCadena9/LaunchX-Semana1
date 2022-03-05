@@ -4,7 +4,7 @@
 
 1. [Caso: Abogabot 🧑‍💼](https://github.com/FedericoCadena9/LaunchX-Semana1#caso-abogabot-)
 2. [Toma de Requerimientos 🔎](https://github.com/FedericoCadena9/LaunchX-Semana1#toma-de-requerimientos-)
-3. [Buyer Persona 🧍](https://github.com/FedericoCadena9/LaunchX-Semana1#toma-de-requerimientos-)
+3. [Buyer Persona 🧍](https://github.com/FedericoCadena9/LaunchX-Semana1#buyer-persona-)
 4. [Público Objetivo 🎯](https://github.com/FedericoCadena9/LaunchX-Semana1#p%C3%BAblico-objetivo-)
 5. [Wireframe UX 🧩](https://github.com/FedericoCadena9/LaunchX-Semana1#wireframe-ux-)
 6. [UI Design 🎨](https://github.com/FedericoCadena9/LaunchX-Semana1#ui-design-)
