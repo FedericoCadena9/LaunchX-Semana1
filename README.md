@@ -57,7 +57,7 @@ En base a los requerimientos levantados anteriormente, y de acuerdo a la persona
 
 ![UX Cover](./UX/Cover.png)
 
-> Puedes consultar toda la estructura en [UX Design 🧩](https://www.figma.com/file/rO1X9AhdgtQsavmTSLwFwD/%F0%9F%9A%80-Launch-X-%7C-Abogabot?node-id=11%3A3).
+> Puedes consultar toda la estructura en [UX Design 🧩](https://www.figma.com/file/rO1X9AhdgtQsavmTSLwFwD/?node-id=11%3A3).
 
 ## **UI Design 🎨**
 
@@ -65,7 +65,7 @@ De acuerdo a la conversación con el cliente, un requerimiento no funcional era 
 
 ![UI Cover](./UI/Cover.png)
 
-> Puedes consultar toda la estructura en [UI Design 🎨](https://www.figma.com/file/rO1X9AhdgtQsavmTSLwFwD/%F0%9F%9A%80-Launch-X-%7C-Abogabot?node-id=11%3A3).
+> Puedes consultar toda la estructura en [UI Design 🎨](https://www.figma.com/file/rO1X9AhdgtQsavmTSLwFwD/?node-id=27%3A508).
 
 <br/>
 Entregables desarrollados con base a los contenidos de la Semana 1 🚀| Frontend Mission del programa Launch X - Innovacción Virtual .
