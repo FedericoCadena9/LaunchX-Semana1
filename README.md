@@ -53,7 +53,7 @@ Personas entre 24 - 45 años, en su mayoría mujeres, trabaja en pequeñas o med
 
 ## **Wireframe UX 🧩**
 
-En base a los requerimientos levantados anteriormente, y de acuerdo a la personalidad d enuestro Buyer Persona, se obtiene una estructura fácil de utilizar para los usuarios.
+En base a los requerimientos levantados anteriormente, y de acuerdo a la personalidad de nuestro Buyer Persona, se obtiene una estructura fácil de utilizar para los usuarios.
 
 ![UX Cover](./UX/Cover.png)
 
