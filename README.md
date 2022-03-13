@@ -1,7 +1,4 @@
-# Launch-X FrontEnd Mission 🚀 | Semana 1 - Despegue 🚀 
-
-## Práctica Requerimientos 🧠
-<br/>
+# Launch-X FrontEnd Mission | Semana 1 - Despegue 🚀 Práctica Requerimientos 🧠
 
 ## **Índice**
 
