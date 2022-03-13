@@ -1,4 +1,7 @@
-# Launch-X FrontEnd Mission 🚀 | Semana 1 - Práctica Requerimientos 🧠
+# Launch-X FrontEnd Mission 🚀 | Semana 1 - Despegue 🚀 
+
+## Práctica Requerimientos 🧠
+<br/>
 
 ## **Índice**
 
@@ -68,4 +71,5 @@ De acuerdo a la conversación con el cliente, un requerimiento no funcional era 
 > Puedes consultar toda la estructura en [UI Design 🎨](https://www.figma.com/file/rO1X9AhdgtQsavmTSLwFwD/?node-id=27%3A508).
 
 <br/>
-Entregables desarrollados con base a los contenidos de la Semana 1 🚀| Frontend Mission del programa Launch X - Innovacción Virtual .
+
+Entregables desarrollados con base a los contenidos de la Semana 1 - Despegue 🚀| Frontend Mission del programa Launch X - Innovacción Virtual.
